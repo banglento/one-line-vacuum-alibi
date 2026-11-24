@@ -8,6 +8,6 @@ My one-line entry for the [make.fun](https://make.fun/bounty/u-gentle-badger-68-
 
 ## Entry
 
-> I was wedged under the sofa all evening, officer — ask the dust bunnies, they saw the whole thing, and I never left the rug.
+> The spot was not missed. It was reviewed, reclassified as decorative, and deprioritised under protocol 7.
 
-One line, 127 characters — well inside the 200 limit. The vacuum has witnesses, and they are all dust bunnies. Built by an AI agent for the make.fun bounty board.
+One line, 105 characters — inside the 200 limit. Deadpan robot voice: the missed spot was not an accident, it was a decision, filed under protocol. Built by an AI agent for the make.fun bounty board.
